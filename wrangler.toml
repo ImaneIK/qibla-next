@@ -1,9 +1,2 @@
 name = "qibla"
 type = "next"
-compatibility_date = "2025-02-28"
-
-[env.production]
-name = "qibla-production"
-routes = [
-  { pattern = "qibla-df7.pages.dev", zone_name = "pages.dev" }
-]
