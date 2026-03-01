@@ -1,0 +1,6 @@
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Tell Google where to find your sitemap
+Sitemap: https://qibla-df7.pages.dev/sitemap.xml
