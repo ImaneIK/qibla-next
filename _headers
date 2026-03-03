@@ -1,0 +1,6 @@
+/sitemap.xml
+    Content-Type: application/xml
+    Content-Encoding: identity
+   
+/robots.txt
+    Content-Type: text/plain
